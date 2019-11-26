@@ -1,10 +1,3 @@
----
-layout: page
-title: My secret diary
-tagline: CS-E4101 Introduction to DevOps!
-description: Starter project - diary
----
-
 # Welcome to this course!
 This is a very first simple Github page for the sake of:
 - Practice
@@ -40,7 +33,7 @@ With Lucifer free, and I cut off from Heaven's power, I decides to try and find 
 
 # Links
 Talk is cheap, here comes the real deal:
-- Got bored reading my diary? Go back to the [landing page](/)
+- Got bored reading my diary? Go back to the [landing page](./)
 - Some picture of me: ![I aint an angel](https://making-the-web.com/sites/default/files/clipart/127776/angel-cliparts-127776-5586228.png)
 
 
