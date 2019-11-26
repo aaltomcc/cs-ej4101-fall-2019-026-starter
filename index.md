@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Landing page
+tagline: CS-E4101 Introduction to DevOps!
+description: Starter project
+---
 
-You can use the [editor on GitHub](https://github.com/aaltomcc/cs-ej4101-fall-2019-026-starter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About
+This site has nothing more than this landing page and a secret diary!
+Something about me: My name is Castiel. I am an angel. I manifests on Earth inside his vessel, Jimmy Novak. I am the only angel that is shown to have been resurrected after having been killed, and I has been resurrected more than once.
+Many angels laid siege to Hell to rescue Dean, but it was Castiel who ultimately pulled Dean out. According to Castiel, I did so "Because God commanded it." His hand print was burned into Dean's left shoulder. Castiel is amongst a group of angels who manifest on Earth to stop the breaking of the the 66 Seals which will release Lucifer and start the Apocalypse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Links
+Talk is cheap, here comes the real deal:
+- Image: ![My beloved school](https://www.sttinfo.fi/data/images/00425/15f495be-4877-4152-a4b2-b5a66ddb6459-w_960_h_960.png)
+- Link: [My secret diary](/diary-026.html)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaltomcc/cs-ej4101-fall-2019-026-starter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`Look is deceiving!`
